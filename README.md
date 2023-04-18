@@ -27,13 +27,13 @@ Hub Crack:
 
 文件夹说明：
 
-1、HubVersionw文件夹是破解的Hub客户端，包含Win和Macl俩个平台的安装包及对应的破解补丁。
+1、HubVersion文件夹是破解的Hub客户端，包含安装包及对应的破解补丁。
 
 2、LicenseGenarate文件夹是许可证生成工具，用于alf许可文件生成ulf许可文件。
 
-3、NoHubVersion文件夹为不需要安装Hub单独破解引擎的LicenseClient,前提是需要安装Hub生成本机的alf许可文件。
+3、EngineLicenseClient文件夹为引擎LicenseClient破解文件,前提是需要安装Hub生成本机的alf许可文件。
 
-4、UnityCrackTool为Win和Mac的破解工具,适用于2023年3月之前发布的版本。
+4、UnityCrackTool为Win和Mac的破解工具,适用于5-2021的Unity破解。
 
 Hub破解：
 
