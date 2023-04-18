@@ -23,5 +23,6 @@
 
 6, 在hub中导入ulf许可证。（如果许可证文件夹里已经包含Unity_lic.ulf，需删除）
 
+7, 登录Hub，点击登录此时会调到网页登录界面，迅速复制网址。
 
 Linux安装看这里：https://docs.unity3d.com/hub/manual/InstallHub.html#install-hub-linux
