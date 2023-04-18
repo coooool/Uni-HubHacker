@@ -10,6 +10,8 @@
 
 6, Import the ulf license in hub. (If the license folder already contains Unity_lic.ulf, you need to delete it)
 
+7, disconnect the network connection, click the login in the Hub at this point will be transferred to the web login interface, copy the URL, restore the network connection. Change the beginning of api.unity.cn to api.unity.com (need a VPN) and log in to your account (here we recommend using a temporary account to log in, temporary accounts can be registered with a temporary email address).
+
 
 1，下载对应操作系统需要的版本。
 
@@ -23,5 +25,6 @@
 
 6, 在hub中导入ulf许可证。（如果许可证文件夹里已经包含Unity_lic.ulf，需删除）
 
+7, 断开网络连接，点击Hub里的登录此时会调到网页登录界面，复制网址，恢复网络连接。将开头的api.unity.cn改为api.unity.com(需要梯子)，登录自己的账户（这里建议用临时账号登录，临时账号可以用临时邮箱注册）。
 
 Linux安装看这里：https://docs.unity3d.com/hub/manual/InstallHub.html#install-hub-linux
