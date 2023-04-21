@@ -1,4 +1,4 @@
-因UnityLicenseGenerate只有win版,所以需要把Mac和Linux生成的alf许可证放到win下生成ulf许可证.
+因LicenseGenerate只有win版,所以需要把Mac和Linux生成的alf许可证放到win下生成ulf许可证.
 
 
 Folder Description:
@@ -7,9 +7,9 @@ Folder Description:
 
 2, LicenseGenarate folder is a license generation tool, used to generate ulfx license file for alf license file.
 
-3, NoHubVersion folder is the LicenseClient that does not require the installation of the Hub crack engine alone, provided that the Hub is installed to generate the local alf license file.
+3, LicenseClientn folder is the LicenseClient that does not require the installation of the Hub crack engine alone, provided that the Hub is installed to generate the local alf license file.
 
-4, UnityCrackTool is a cracking tool for Win and Mac, applicable to versions released before March 2023.
+4, CrackTool is a cracking tool for Win and Mac, applicable to versions 5-2021.
 
 Hub Crack:
 
@@ -31,9 +31,9 @@ Hub Crack:
 
 2、LicenseGenarate文件夹是许可证生成工具，用于alf许可文件生成ulf许可文件。
 
-3、EngineLicenseClient文件夹为引擎LicenseClient破解文件,前提是需要安装Hub生成本机的alf许可文件。
+3、LicenseClient文件夹为LicenseClient破解文件,前提是需要安装Hub生成本机的alf许可文件。
 
-4、UnityCrackTool为Win和Mac的破解工具,适用于5-2021的Unity破解。
+4、CrackTool为Win和Mac的破解工具,适用于5-2021版本破解。
 
 Hub破解：
 
