@@ -23,6 +23,9 @@ Hub Crack:
 
 5, Hub and engine to be cracked.
 
+6, The higher version of licenseclient is compatible with the lower version, but the lower version of licenseclient in the hub is not compatible with the higher version of licenseclient in the engine.
+   There are two solutions (1, crack the licenseclient in the hub and the licenseclient in the engine. 2, copy the higher version of the licenseclient to the hub and crack it.)
+
 -- Crack complete --
 
 文件夹说明：
@@ -46,6 +49,8 @@ Hub破解：
 4, 用 licensegenerate 文件夹中的工具生成一个许可证。
 
 5, 需要client和hub都破解。
+
+6, licenseclient高版本兼容低版本，但是hub里低版本的licenseclient不兼容引擎里高版本的licenseclient。有俩种解决办法（1，破解hub里的licenseclient和引擎里的licenseclient。2，把高版本的licenseclient复制到hub里并破解。）
 
 
 因没有arm对应的设备，所以无法进行测试。这里全是x86架构的。
